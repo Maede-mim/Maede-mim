@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="https://github.com/Maede-mim/Maede-mim/blob/main/maede_banner1.jpg" />  
+  <img src="https://github.com/Maede-mim/Maede-mim/blob/main/Maede_mim.jpg" />  
 </p>
 <p align="center">
     <a href="https://t.me/maaaaaaaaaaaaede">
