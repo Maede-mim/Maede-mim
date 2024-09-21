@@ -1,4 +1,6 @@
-
+<p align="center">  
+  <img src="https://github.com/Maede-mim/Maede-mim/blob/main/maede_banner.png?raw=true" alt="My Banner" />  
+</p>
 <p align="center">
     <a href="https://t.me/maaaaaaaaaaaaede">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white alt="Telegram" /></a>&nbsp;
@@ -175,7 +177,7 @@
     <img src="https://komarev.com/ghpvc/?username=Maede-mim&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 <p align="center">
-    <img alt="github cat gif" width="400" height="350" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
+    <img alt="github cat gif" width="650" height="500" src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
 </p>
 <!--<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=afsharino&theme=discord" />
