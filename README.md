@@ -147,60 +147,6 @@
     </tr>
 </table>
 <br />
-
-<h2 align="center">Statistics 📊 </h2>
-<br />
-
-<details>
-    <summary>GitHub Profile Stats :octocat:</summary>
-    <br/>
-    <p align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="420" height="165"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=afsharino&theme=tokyonight" width="420"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="400"/>
-    </p>
-    <br/>
-</details>
-
-<details>
-    <h2 align="center">Statistics 📊 </h2>  
-<br />  
-
-<details>  
-    <summary>GitHub Profile Stats :octocat:</summary>  
-    <br/>  
-    <p align="center">  
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yourusername&layout=compact&theme=tokyonight&show_icons=true" width="420" height="165"/>  
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="420"/>  
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&show_icons=true" width="400"/>  
-    </p>  
-    <br/>  
-<h2 align="center">Statistics 📊 </h2>
-<br />
-
-<details>
-    <summary>GitHub Profile Stats :octocat:</summary>
-    <br/>
-    <p align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="420" height="165"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=afsharino&theme=tokyonight" width="420"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="400"/>
-    </p>
-    <br/>
-<br />
-<h2 align="center">Statistics 📊 </h2>
-<br />
-
-<details>
-    <summary>GitHub Profile Stats :octocat:</summary>
-    <br/>
-    <p align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="420" height="165"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=afsharino&theme=tokyonight" width="420"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afsharino&layout=compact&theme=tokyonight&show_icons=true" width="400"/>
-    </p>
-
-    <br />
 <h2 align="center">Statistics 📊 </h2>
 <br />
 
@@ -219,19 +165,18 @@
     <summary>Activity Graph 📈</summary>
     <br/>
      <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=afsharino&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maede-mim&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
      </p>
 </details>
 
 <details>
     <summary>Profile Views 👁️</summary>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=afsharino&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+    <img src="https://komarev.com/ghpvc/?username=Maede-mim&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 <p align="center">
     <img alt="github cat gif" width="600" height="450" src="https://github.com/afsharino/afsharino/blob/main/images/animated/daftpunktocat-thomas.gif">
 </p>
-
 <!--<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=afsharino&theme=discord" />
 </p>-->
