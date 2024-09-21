@@ -175,7 +175,7 @@
     <img src="https://komarev.com/ghpvc/?username=Maede-mim&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 <p align="center">
-    <img alt="github cat gif" width="600" height="450" src="https://github.com/afsharino/afsharino/blob/main/images/animated/daftpunktocat-thomas.gif">
+    <img alt="github cat gif" width="400" height="350" src="https://raw.githubusercontent.com/gist/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif">
 </p>
 <!--<p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=afsharino&theme=discord" />
