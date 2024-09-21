@@ -15,7 +15,7 @@
 <h1 align="center">Hi 👋, I'm Maede</h1>
 <h3 align="center">A passionate Data Scientist from Iran</h3>
 
-<img align="right" alt="maede" widght="400" src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=sFRBnSLCQQJN_CiJ2VB7fxyIBdPgpPnZOTE7DGP_zRA">
+<img align="right" alt="maede" widght="300" src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=sFRBnSLCQQJN_CiJ2VB7fxyIBdPgpPnZOTE7DGP_zRA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maede-mim&label=Profile%20views&color=0e75b6&style=flat" alt="maede-mim" /> </p>
 
