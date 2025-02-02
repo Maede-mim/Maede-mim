@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Deep learning , AI tools**
 
-- 💬 Ask me about **everything about data **
+- 💬 Ask me about **everything about data**
 
 - 📫 How to reach me **maaaede.mim@gmail.com**
 
