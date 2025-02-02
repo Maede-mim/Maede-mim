@@ -19,9 +19,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maede-mim&label=Profile%20views&color=0e75b6&style=flat" alt="maede-mim" /> </p>
 
-- 🌱 I’m currently learning **machine learning , AI tools**
+- 🌱 I’m currently learning **Deep learning , AI tools**
 
-- 💬 Ask me about **python ,ml,SQl**
+- 💬 Ask me about **everything about data **
 
 - 📫 How to reach me **maaaede.mim@gmail.com**
 
