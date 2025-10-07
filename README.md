@@ -1,184 +1,205 @@
-<p align="center">  
-  <img src="https://github.com/Maede-mim/Maede-mim/blob/main/Maede_mim.jpg" />  
-</p>
+![](assets/Bottom_up.svg)
+
+<!--   my-icons -->
 <p align="center">
-    <a href="https://t.me/maaaaaaaaaaaaede">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white alt="Telegram" /></a>&nbsp;
-    <a href="mailto:maaaede.mim@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-<a href="www.linkedin.com/in/maede-mohammadi-a41613300">      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
-    <a href="https://www.instagram.com/datatech_by_maede_/">
-    <img src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white alt="Instagram" /></a>&nbsp;
-    <a href="https://www.kaggle.com/maedemhdi">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white" /></a>&nbsp;
-    <br />
-<h1 align="center">Hi 👋, I'm Maede</h1>
-<h3 align="center">A passionate Data Scientist from Iran</h3>
-
-<img align="right" alt="maede" widght="300" src="https://media.licdn.com/dms/image/D5612AQFuWiuEBRAcNw/article-cover_image-shrink_600_2000/0/1694701932900?e=2147483647&v=beta&t=sFRBnSLCQQJN_CiJ2VB7fxyIBdPgpPnZOTE7DGP_zRA">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maede-mim&label=Profile%20views&color=0e75b6&style=flat" alt="maede-mim" /> </p>
-
-- 🌱 I’m currently learning **Deep learning , AI tools**
-
-- 💬 Ask me about **everything about data**
-
-- 📫 How to reach me **maaaede.mim@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yeahitsmaede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yeahitsmaede" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maede_mim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maede_mim" height="30" width="40" /></a>
-<a href="https://instagram.com/datatech_by_maede_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="datatech_by_maede_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/maedemhdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="maedemhdi" height="30" width="40" /></a>
+    <a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
+    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
 </p>
 
-<h3 align="center">Languages and Tools 💾🛠️</h3>  
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
-<table align="center">
-    <tr>
-        <td align="center" width="96">
-            <a href="https://www.python.org/" target="blank" rel="noopener noreferrer">  
-            <img src="https://github.com/afsharino/afsharino/blob/main/images/animated/python-icon.svg" alt="python-icon" width="65" height="65" />
-            <br>Python</a>
-        </td>
-        <td align="center" width="96">
-          <a href="https://www.java.com/en/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/afsharino/afsharino/blob/main/images/animated/java-icon.svg" alt="java-icon" width="65" height="65" />
-          <br>Java</a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://isocpp.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/afsharino/afsharino/blob/main/images/animated/cpp-icon.svg" alt="cpp-icon" width="65" height="65" />
-          <br>C++</a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.codeblocks.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/C_Logo.png" alt="c-icon" width="65" height="65" />
-          <br>C</a>
-        </td>
-           <td align="center" width="96">
-               <a href="https://www.tensorflow.org/" target="_blank" rel="noopener noreferrer">
-               <img src="https://github.com/afsharino/afsharino/blob/main/images/logos/Tensorflow_logo.png" alt="Tensorflow-icon" width="65" height="65" />
-          <br>Tensorflow</a>
-        </td>
-       <td align="center" width="96">
-           <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/afsharino/afsharino/blob/main/images/logos/PyTorch_logo.png" width="65" height="65" alt="pytorch-icon" />
-          <br>Pytorch</a>
-       </td>
-      <td align="center" width="96">
-          <a href="https://keras.io/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/afsharino/afsharino/blob/main/images/logos/Keras_logo.png" width="65" height="65" alt="keras-icon" />
-          <br>Keras</a>
-      </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-          <a href="https://scikit-learn.org/stable/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/afsharino/afsharino/blob/main/images/logos/Scikit_learn_logo.png" alt="scikit-learn-icon" width="65" height="65" />
-          <br>Sk-Learn</a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://kde.org/plasma-desktop/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/afsharino/afsharino/blob/main/images/logos/kde-logo.png" alt="ckde-plasma-icon" width="65" height="65" />
-          <br>KDE</a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://archlinux.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/afsharino/afsharino/blob/main/images/logos/archlinux-logo.png" alt="archlinux-icon" width="65" height="65" />
-          <br>Archlinux</a>
-        </td>
-           <td align="center" width="96">
-               <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
-               <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/Jupyter_logo.png" alt="Jupyter-icon" width="65" height="65" />
-          <br>Jupyter</a>
-        </td>
-       <td align="center" width="96">
-           <a href="https://docs.conda.io/en/latest/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/afsharino/afsharino/blob/main/images/logos/conda-logo.png" width="65" height="65" alt="conda-icon" />
-          <br>Conda</a>
-       </td>
-      <td align="center" width="96">
-          <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/numpy_Logo.png" width="65" height="65" alt="numpy-icon" />
-          <br>Numpy</a>
-      </td>
-      <td align="center" width="96">
-          <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/pandas_Logo.png" width="65" height="65" alt="pandas-icon" />
-          <br>Pandas</a>
-      </td>
-    </tr>
-    <tr>
-        <td align="center" width="96">
-          <a href="https://matplotlib.org/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/matplot_Logo.png" alt="matplotlib-icon" width="65" height="65" />
-          <br>Matplotlib</a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/seaborn_Logo.png" alt="seaborn-icon" width="65" height="65" />
-          <br>Seaborn</a>
-        </td>
-        <td align="center" width="96">
-            <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-            <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/vscode_Logo.png" alt="vscode-icon" width="65" height="65" />
-          <br>VSCode</a>
-        </td>
-           <td align="center" width="96">
-               <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-               <img src="https://github.com/afsharino/afsharino/blob/main/images/animated/mysql-icon.svg" alt="mysql-icon" width="65" height="65" />
-          <br>MySQL</a>
-        </td>
-       <td align="center" width="96">
-           <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
-           <img src="https://github.com/afsharino/afsharino/blob/main/images/animated/github-icon.svg" width="65" height="65" alt="github-icon" />
-          <br>Github</a>
-       </td>
-      <td align="center" width="96">
-          <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/afsharino/afsharino/raw/main/images/logos/Git-Icon-1788C.png" width="65" height="65" alt="git-icon" />
-          <br>Git</a>
-      </td>
-      <td align="center" width="96">
-          <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github.com/afsharino/afsharino/blob/main/images/animated/docker-icon.svg" width="65" height="65" alt="docker-icon" />
-          <br>Docker</a>
-      </td>
-    </tr>
-</table>
-<br />
-<h2 align="center">Statistics 📊 </h2>
-<br />
 
-<details>
-    <summary>GitHub Profile Stats :octocat:</summary>
-    <br/>
-    <p align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Maede-mim&layout=compact&theme=tokyonight&show_icons=true" width="420" height="165"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Maede-mim&theme=tokyonight" width="420"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Maede-mim&layout=compact&theme=tokyonight&show_icons=true" width="400"/>
-    </p>
-    <br/>
-</details>
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
-<details>
-    <summary>Activity Graph 📈</summary>
-    <br/>
-     <p align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maede-mim&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
-     </p>
-</details>
 
-<details>
-    <summary>Profile Views 👁️</summary>
-    <br/>
-    <img src="https://komarev.com/ghpvc/?username=Maede-mim&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-</details>
-<!--<p align="center">
-    <img alt="github cat gif" width="650" height="500" src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif">
-</p>-->
-<!--<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=afsharino&theme=discord" />
-</p>-->
+<a href="https://tryhackme.com/signup?referrer=6606c6ff813081fdb556602e"><img src="https://tryhackme-badges.s3.amazonaws.com/andrej.marinchenko.png" alt="TryHackMe"></a>
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
+
+
+<!--   my-kaggle     
+### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
+-->
+
+
+<!--   my-skils -->
+
+| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)  ![PyQt](https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt)&nbsp; ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/BEPb/BEPb) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp;  [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)|
+| **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; |
+
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+<!--   green snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg)
+<!--   stats + languages -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=BEPb&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+
+<!-- dark snake -->
+![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
+
+
+<!--   skyline 
+<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
+-->
+
+<!--  TOP codersrank для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
+
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=BEPb" width="auto"></img>
+<!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/bepb-->
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&show-other-skills=true" width="auto"></img>
+
+**📫 How to Reach me:**
+<p align="left">
+<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+</p>
+
+<div align="center">
+<summary>Trophy: Github Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
+</p>
+
+
+
+
+   <!--machine-learning-->
+```mermaid
+graph TD;
+    machine-learning-->Data;
+    machine-learning-->Algorithms;
+    machine-learning-->Statistical-Models;
+    machine-learning-->Feature-Engineering;
+    machine-learning-->Evaluation-Metrics;
+    machine-learning-->Deployment;
+   ```
+   
+ 
+
+
+<div align="center">
+<summary>Trophy: Hackerrank Profile Trophy</summary>
+</div>
+
+<p align="center"> 
+
+<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
+width="30%">
+
+</p>
+
+
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+
+
+
+
+
+<!-- Belarus - My Home-->
+  
+ ```geojson
+{
+ "type": "FeatureCollection",
+ "features": [
+   {
+     "type": "Feature",
+     "id": 1,
+     "properties": {
+       "ID": 0
+     },
+     "geometry": {
+       "type": "Polygon",
+       "coordinates": [
+         [
+             [23.5,53.9],
+             [32.6,52.6]
+         ]
+       ]
+     }
+   }
+ ]
+}
+
+```
+
+
+![badges_37-46.png](src%2Fbadges_37-46.png)
+![badges_25-36.png](src%2Fbadges_25-36.png)
+![badges_13-24.png](src%2Fbadges_13-24.png)
+![badges_1-12.png](src%2Fbadges_1-12.png)
+
+
+#### Thanks for visiting :heart:
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/BEPb/count.svg">  
+
+counting of visitors to this page in this section started from May 8, 2022
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
+
+
+
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
+
+![](https://count.getloli.com/get/@BEPb.github.readme)
+</br>
+
+[MIT](LICENSE)
+
+
+</p>
+
+---
+  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
+---
+Would you ike to meet me?
+
+If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
+
+---
+  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
+---
+
+[for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
+
+![](assets/Bottom_down.svg)
