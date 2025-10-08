@@ -2,7 +2,7 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/BEPb/BEPb"><img src=https://github.com/Maede-mim/Maede-mim/blob/main/Maede_mim.jpg?raw=true"></a>
+    <a href="https://github.com/BEPb/BEPb"><img src=https://github.com/Maede-mim/Maede-mim/blob/main/images/Maede_mim.jpg?raw=true"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
     <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
@@ -60,10 +60,12 @@
 ![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 <!--   profile-green-animate -->
-![](profile-season.svg)
+![](images/profile-season.svg)
 
 <!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
 
+### 📊 GitHub Metrics
+![GitHub Metrics](./assets/github-metrics.svg)
 
 <!--   skyline 
 <a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
