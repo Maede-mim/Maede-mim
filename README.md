@@ -64,9 +64,7 @@
 
 <!--   grid-snake ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg) -->
 
-### 📊 GitHub Metrics
-![GitHub Metrics](./github-metrics.svg)
-![3D Contribution Graph](./output/github-profile-3d-contrib.svg)
+
 
 
 <!--   skyline 
@@ -87,13 +85,9 @@
 <a href="https://api.whatsapp.com/send?phone=+989152587168" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
-</p>
+
+
 
 
 
@@ -112,24 +106,7 @@ graph TD;
  
 
 
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
 
-<p align="center"> 
-
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" 
-width="30%">
-
-</p>
-
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-
-
-![GitHub Metrics](https://github.com/Maede-mim/Maede-mim/blob/main/github-metrics.svg)
 
 
 
@@ -159,9 +136,6 @@ width="30%">
 }
 
 ```
-![GitHub Metrics](./github-metrics.svg)
-
-![3D Contribution Graph](./output/github-profile-3d-contrib.svg)
 
 
 
