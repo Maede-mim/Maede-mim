@@ -155,6 +155,10 @@ width="30%">
 }
 
 ```
+![GitHub Metrics](./github-metrics.svg)
+
+![3D Contribution Graph](./output/github-profile-3d-contrib.svg)
+
 
 
 #### Thanks for visiting :heart:
